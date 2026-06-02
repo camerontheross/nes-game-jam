@@ -1,6 +1,8 @@
-# Working Title
+# Wheat Wars (Working Title)
 
 ## MVP
+
+CRT shader
 
 ### Units
 - Soldier
@@ -17,6 +19,11 @@ Cavalry v Archer = Cavalry
 - mine = pepole -> metal + stone
 - barracks = ppl + metal =  units
 
+### Buildings
+Buildings can be selected, and a popup menu will appear with options
+
+
+
 ### Day Night Cycle
 Day cycle sees the player focusing on resource production to prepare for night
 Night cycle sees the player focusing on combat to protect resources
@@ -25,6 +32,30 @@ Night cycle sees the player focusing on combat to protect resources
 vampire survivors waves
 each night has an enemy unit buff or theme (curses)
 player can select groups of units from barracks to send in either direction
+
+### Upgrades
+
+*Buildings*
+
+Per building upgrades
+- faster production
+
+Barracks
+- Hold more formations
+- faster unit production (per unit)
+
+House
+- Faster population
+
+Farm
+- Faster food production
+- Faster wood producion
+
+*Units*
+
+Per unit upgrades:
+- faster attacks
+- higher health
 
 ## Stretch goals
 
