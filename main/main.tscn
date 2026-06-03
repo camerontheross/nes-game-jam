@@ -15,6 +15,11 @@ texture = ExtResource("1_53q0u")
 1:1/0 = 0
 0:2/0 = 0
 1:2/0 = 0
+2:1/0 = 0
+2:2/0 = 0
+3:2/0 = 0
+4:2/0 = 0
+4:1/0 = 0
 
 [sub_resource type="TileSet" id="TileSet_xwkvk"]
 sources/0 = SubResource("TileSetAtlasSource_pjrb6")
@@ -26,7 +31,7 @@ tile_map_data = PackedByteArray("AAAAAAIAAAAGAAAAAAAAAAMAAAAGAAAAAAAAAAQAAAADAAA
 tile_set = SubResource("TileSet_xwkvk")
 
 [node name="Buildings" type="TileMapLayer" parent="." unique_id=1406117921]
-tile_map_data = PackedByteArray("AAAHAAkAAAAAAAIAAAAIAAkAAAABAAIAAAAHAAgAAAAAAAEAAAAIAAgAAAAAAAEAAAAHAAcAAAAAAAAAAAAIAAcAAAABAAAAAAA=")
+tile_map_data = PackedByteArray("AAAIAAkAAAAEAAIAAAAIAAgAAAADAAIAAAAIAAcAAAAEAAEAAAA=")
 tile_set = SubResource("TileSet_xwkvk")
 
 [node name="Wheat" type="TileMapLayer" parent="." unique_id=98114520]
